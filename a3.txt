@@ -1,1 +1,5 @@
+<<<<<< HEAD
 this is a a3 text file
+=======
+this is a3 text file
+>>>>>>> master

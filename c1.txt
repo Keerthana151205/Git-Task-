@@ -1,1 +1,5 @@
+ <<<<<< HEAD
 this is a c1 empty text file
+=======
+this is c1 txt file
+>>>>>>> master

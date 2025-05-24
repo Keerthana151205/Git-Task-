@@ -1,1 +1,6 @@
+:wq
+<<<<<< HEAD
 this is a c2 empty text file
+=======
+this is c2 text file
+>>>>>>> master
